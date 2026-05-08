@@ -1,6 +1,7 @@
 # .gitignore
 .env
 __pycache__/
+.mypy_cache/
 *.pyc
 .venv/
 chroma_db/
